@@ -1,0 +1,8 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+.container{
+    display: flex;
+    background-image: url(/resources/Banner\ Image.png);
+}
